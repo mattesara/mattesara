@@ -15,7 +15,7 @@ Bitcoin's student 🌱
 
 ### Skill
 
-[![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]([https://github.com/mattesara/AuctionOnChain](https://github.com/mattesara/AuctionOnChain/blob/master/api/views.py)) &nbsp;&nbsp;
+[![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/mattesara/AuctionOnChain/blob/master/api/views.py) &nbsp;&nbsp;
 [![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)](https://github.com/mattesara/Midir/blob/master/MyContract/MyContract.sol) &nbsp;&nbsp;
 
  
