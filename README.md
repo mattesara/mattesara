@@ -1,3 +1,9 @@
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteosebastiani/) &nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://docs.google.com/presentation/d/e/2PACX-1vQCcYIEtvWarLOz2aGE0XpUZ_VekU2n1p6aDlBn0ILXwXShWq3uLMoTivWpY-nn8w/pub?start=false&loop=false&delayms=3000&slide=id.p1) &nbsp;&nbsp;
+[![GitHub mattesara](https://img.shields.io/github/followers/mattesara?style=social)](https://github.com/mattesara)
+
+
+
 ### Hi there 👋
 
 <!--
